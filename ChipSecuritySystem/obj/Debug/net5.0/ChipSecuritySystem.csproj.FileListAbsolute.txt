@@ -1,0 +1,16 @@
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.exe
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.deps.json
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.runtimeconfig.json
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.runtimeconfig.dev.json
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.dll
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ref\ChipSecuritySystem.dll
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\bin\Debug\net5.0\ChipSecuritySystem.pdb
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.csproj.AssemblyReference.cache
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.AssemblyInfoInputs.cache
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.AssemblyInfo.cs
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.dll
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ref\ChipSecuritySystem.dll
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.pdb
+C:\Users\Tiia\source\testingSln\ChipSecuritySystem\ChipSecuritySystem\obj\Debug\net5.0\ChipSecuritySystem.genruntimeconfig.cache

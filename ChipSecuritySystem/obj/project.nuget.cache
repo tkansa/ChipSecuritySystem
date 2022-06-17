@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hL1hxq9QMe0/MmVWVzV6uIcPANSeW3HEou1p/7Dx9qa4dnpLaV2B1/oMyE+A46Vk0qD6qONsEZsjJBO5Cxw0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiia\\source\\testingSln\\ChipSecuritySystem\\ChipSecuritySystem\\ChipSecuritySystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
